@@ -1,7 +1,7 @@
 //We traverse both string and pick each of words,so the time complexity of it is O(n),
 //since n is the length of the longest words
 
-//Space complexity is O(n),
+//Space complexity is O(n),to store the output string
 
 #include <iostream>
 #include <string>
