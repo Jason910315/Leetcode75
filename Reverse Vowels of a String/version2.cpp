@@ -1,4 +1,4 @@
-//解題思路:不同於version1用for loop檢查字串是否存在母音，此算法創建一函示判斷字串元素是否有存在母音
+//解題思路:不同於version1用for loop檢查字串是否存在母音，此算法創建一函式判斷字串元素是否有存在母音
 //並且在不同情況下start、end該如何++ or --
 #include <string>
 #include <iostream>

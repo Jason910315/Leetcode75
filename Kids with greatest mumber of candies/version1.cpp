@@ -1,6 +1,6 @@
 //Time complexity:O(n).We iterate over the candies array to find Max,take O(n)
 //and we iterate each kids whether they have the most candies,take O(n)
-//Space complexity:O(n):To store the output string
+//Space complexity:O(1):the output string does not count
 
 #include <iostream>
 #include <vector>

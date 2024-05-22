@@ -1,5 +1,5 @@
 //Time complexity:O(n),we use i,j to traverse all string
-//Space complexity:O(1),we use the original input string ti manipulate thr proccess
+//Space complexity:O(1),we use the original input string to manipulate thr proccess
 
 #include <string>
 #include <iostream>
