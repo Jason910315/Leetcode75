@@ -5,6 +5,7 @@
 //(此步驟若沒有遇到非零元素則NonZero不會++，故未修改前的NonZero位置必定為零)
 //Steps2:經過步驟1後陣列前方就都是非零元素，此時只要將後方的元素都修改為零即可
 
+//要注意陣列overflow的問題
 #include <iostream>
 #include <string>
 #include <vector>
