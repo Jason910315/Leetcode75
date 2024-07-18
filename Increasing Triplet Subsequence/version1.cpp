@@ -3,7 +3,7 @@
 //case2:nums[i]>最小且nums[i]<=第二小 => 第二小更新成nums[i]
 //case3:當nums[i]都沒有小於最小與第二小，代表已找到increasing triplet，返回true
 //Time complexity:O(n),we traverse all numbers in array
-//Space complexity:O(1),we use just only consatnt variable
+//Space complexity:O(1),we use just only constant variable
 
 #include <iostream>
 #include <vector>
